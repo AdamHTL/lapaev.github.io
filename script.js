@@ -1,5 +1,5 @@
 document.getElementById('getApi').addEventListener('click', function() {
-    const apiKey = 'be69e010d1fb4ce4adf00524241312'; // Replace with your actual API key
+    const apiKey = '811821d15d3f450585b15314241312'; // Replace with your actual API key
     const cityName = document.getElementById('cityName').value;
 
     // Fetch current weather data
